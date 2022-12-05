@@ -1,6 +1,6 @@
 <h2> Hi, I'm Tom! 👋 </h2>
 <img align='right' src="https://media.giphy.com/media/DUtVdGeIU8lmo/giphy.gif" width="230">
-<p><em>Software Engineer at <a href="https://northcoders.com/">Northcoders </a><img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="30"></br>Ex-Associate Account Strategist @ <a href="https://www.google.co.uk/">Google </a><img src="https://media.giphy.com/media/3oKGzFba1fQEuthrkQ/giphy.gif" width="30"> 
+<p><em>Software Engineer at <a href="https://northcoders.com/">Northcoders </a></br>Ex-Associate Account Strategist @ <a href="https://www.google.co.uk/"> Google </a><img src="https://media.giphy.com/media/3oKGzFba1fQEuthrkQ/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: TheCodedJourney](https://img.shields.io/twitter/follow/theCodedJourney?style=social)](https://twitter.com/TheCodedJourney)
@@ -13,16 +13,17 @@
 ```javascript
 const Tom = {
   pronouns: "he" | "him",
-  code: [Javascript, Python, HTML, CSS, SQL, Pinescript],
+  code: [Javascript, Python, HTML, CSS, SQL, PineScript],
   tools: [React, Node, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
   devCommunities : {
                         contributor: "Eddiehub"
                       },
- challenge: "I am doing the #100DaysOfCode challenge and documenting key learnings during my journey"
+ challenge: "I am doing the #100DaysOfCode challenge and documenting key learnings during my journey",
+ favouriteChoc: "Lion Bar 🦁",
+ seeking: ["Projects to contribute towards", "Growth", "Software Engineering Mentor"]
 }
 ```
 
-<img src="https://media.giphy.com/media/xr7GE8l07Zw2Y/giphy.gif" width="60"> <em><b>Reach out for a coffee chat - i'd love to connect!</b> 💪</em>
+<img src="https://media.giphy.com/media/xr7GE8l07Zw2Y/giphy.gif" width="60"> <em><b>Reach out for a coffee chat - i'd love to connect!</b> ☕️ </em>
 
 ---
