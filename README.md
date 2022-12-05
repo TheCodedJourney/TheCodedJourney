@@ -1,6 +1,6 @@
 <h2> Hi, I'm Tom! 👋 </h2>
 <img align='right' src="https://media.giphy.com/media/DUtVdGeIU8lmo/giphy.gif" width="230">
-<p><em>Software Engineer at <a href="https://northcoders.com/">Northcoders </a><img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="30"></br>Associate Account Strategist @ <a href="https://www.google.co.uk/">Google </a><img src="https://media.giphy.com/media/3oKGzFba1fQEuthrkQ/giphy.gif" width="30"> 
+<p><em>Software Engineer at <a href="https://northcoders.com/">Northcoders </a><img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="30"></br>Ex-Associate Account Strategist @ <a href="https://www.google.co.uk/">Google </a><img src="https://media.giphy.com/media/3oKGzFba1fQEuthrkQ/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: TheCodedJourney](https://img.shields.io/twitter/follow/theCodedJourney?style=social)](https://twitter.com/TheCodedJourney)
@@ -8,7 +8,7 @@
 [![GitHub TheCodedJourney](https://img.shields.io/github/followers/TheCodedJourney?label=follow&style=social)](https://github.com/TheCodedJourney)
 
 
-### <img src="https://media.giphy.com/media/gh6gFVh35jyzNvHegl/giphy.gif" width="50"> A little more about me...  
+### A little more about me...  
 
 ```javascript
 const Tom = {
@@ -23,6 +23,6 @@ const Tom = {
 }
 ```
 
-<img src="https://media.giphy.com/media/xr7GE8l07Zw2Y/giphy.gif" width="60"> <em><b>I'd love to catch up during a coffee chat or in person!</b> 💪</em>
+<img src="https://media.giphy.com/media/xr7GE8l07Zw2Y/giphy.gif" width="60"> <em><b>Reach out for a coffee chat - i'd love to connect!</b> 💪</em>
 
 ---
