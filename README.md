@@ -27,8 +27,8 @@ const Tom = {
 ## My Github stats 📈
 
 <a href="https://github-readme-stats.vercel.app/api?username=thecodedjourney&show_icons=true">
-  <img width="500" align="left" src="https://github-readme-stats.vercel.app/api?username=thecodedjourney&show_icons=true" />
+  <img width="475" align="center" src="https://github-readme-stats.vercel.app/api?username=thecodedjourney&show_icons=true" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=thecodedjourney">
-  <img width="360"align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecodedjourney" />
+  <img width="340"align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecodedjourney" />
 </a>
