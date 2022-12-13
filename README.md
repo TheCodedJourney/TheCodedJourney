@@ -14,7 +14,7 @@
 const Tom = {
   pronouns: "he" | "him",
   code: [Javascript, Python, HTML, CSS, SQL, PineScript],
-  tools: [React, Node, Styled-Components, Jest, Docker],
+  tools: [React, Node, Jest, Docker],
   devCommunities : {
                         contributor: "Eddiehub"
                       },
