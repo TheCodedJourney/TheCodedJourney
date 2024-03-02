@@ -19,8 +19,8 @@ const Tom = {
   devCommunities : {
       contributor: 'Eddiehub',
   },
- challenge: "I am doing the #100DaysOfCode challenge and documenting key learnings during my journey",
- favouriteChoc: "Lion Bar 🦁",
+ challenge: 'I am doing the #100DaysOfCode challenge and documenting key learnings during my journey',
+ favouriteChoc: 'Lion Bar 🦁',
  seeking: ['Projects to contribute towards', 'Growth', 'Software Development Mentor']
 }
 ```
