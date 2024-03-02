@@ -14,7 +14,7 @@
 const Tom = {
   languages: ['PHP', 'Typescript', 'Javascript', 'Python', 'HTML', 'CSS', 'MYSQL', 'Postgres', 'PineScript'],
   frameworks: ['React', 'Next.js', 'Laravel', 'CodeIgniter'],
-  npm: ['@codedjourney/helperjs'],
+  npm: ['@thecodedjourney/helperjs'],
   tools: ['React', 'Node', 'Jest', 'Docker'],
   devCommunities : {
       contributor: 'Eddiehub',
