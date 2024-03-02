@@ -14,11 +14,11 @@
 const Tom = {
   languages: ['PHP', 'Typescript', 'Javascript', 'Python', 'HTML', 'CSS', 'MYSQL', 'Postgres', 'PineScript'],
   frameworks: ['React', 'Next.js', 'Laravel', 'CodeIgniter'],
-  npm: ['@codedjourney/helperjs']
+  npm: ['@codedjourney/helperjs'],
   tools: ['React', 'Node', 'Jest', 'Docker'],
   devCommunities : {
-                        contributor: "Eddiehub",
-                      },
+      contributor: "Eddiehub",
+  },
  challenge: "I am doing the #100DaysOfCode challenge and documenting key learnings during my journey",
  favouriteChoc: "Lion Bar 🦁",
  seeking: ["Projects to contribute towards", "Growth", "Software Engineering Mentor"]
