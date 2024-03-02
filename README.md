@@ -17,11 +17,11 @@ const Tom = {
   npm: ['@codedjourney/helperjs'],
   tools: ['React', 'Node', 'Jest', 'Docker'],
   devCommunities : {
-      contributor: "Eddiehub",
+      contributor: 'Eddiehub',
   },
  challenge: "I am doing the #100DaysOfCode challenge and documenting key learnings during my journey",
  favouriteChoc: "Lion Bar 🦁",
- seeking: ["Projects to contribute towards", "Growth", "Software Engineering Mentor"]
+ seeking: ['Projects to contribute towards', 'Growth', 'Software Development Mentor']
 }
 ```
 
