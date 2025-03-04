@@ -1,7 +1,7 @@
 <h2> Hey folks, I'm Tom! 👋 </h2>
  <!-- <img align='right' src="https://github-readme-stats.vercel.app/api?username=thecodedjourney&show_icons=true&theme=tokyonight" width="375"/>-->
 <img align='right' src="https://media.giphy.com/media/DUtVdGeIU8lmo/giphy.gif" width="300">​
-<p><em>Software Engineer at <a href="https://www.sykescottages.co.uk/">Sykes Holiday Cottages </a></br>Ex-Associate Account Strategist @ <a href="https://www.google.co.uk/"> Google </a><img src="https://media.giphy.com/media/3oKGzFba1fQEuthrkQ/giphy.gif" width="30"> 
+<p><em>Software Engineer at <a href="https://www.aiimi.com/">Aiimi</a></br>Ex-Associate Account Strategist @ <a href="https://www.google.co.uk/"> Google </a><img src="https://media.giphy.com/media/3oKGzFba1fQEuthrkQ/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: TheCodedJourney](https://img.shields.io/twitter/follow/theCodedJourney?style=social)](https://twitter.com/TheCodedJourney)
