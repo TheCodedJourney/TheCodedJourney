@@ -4,7 +4,6 @@
 <p><em>Tech Lead at <a href="https://counter.partners">Counter</a></br>Previously Senior Software Developer at <a href="https://www.aiimi.com/">Aiimi</a></br>Previously Software Developer at <a href="https://www.sykescottages.co.uk/">Sykes</a></br>Ex-Associate Account Strategist @ <a href="https://www.google.co.uk/"> Google </a><img src="https://media.giphy.com/media/3oKGzFba1fQEuthrkQ/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter: TheCodedJourney](https://img.shields.io/twitter/follow/theCodedJourney?style=social)](https://twitter.com/TheCodedJourney)
 [![Linkedin: TheCodedJourney](https://img.shields.io/badge/-Tom-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leggtom/)](https://www.linkedin.com/in/leggtom/)
 [![GitHub TheCodedJourney](https://img.shields.io/github/followers/TheCodedJourney?label=follow&style=social)](https://github.com/TheCodedJourney)
 
