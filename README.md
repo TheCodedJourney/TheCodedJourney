@@ -6,12 +6,3 @@
 
 [![Linkedin: TheCodedJourney](https://img.shields.io/badge/-Tom-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leggtom/)](https://www.linkedin.com/in/leggtom/)
 [![GitHub TheCodedJourney](https://img.shields.io/github/followers/TheCodedJourney?label=follow&style=social)](https://github.com/TheCodedJourney)
-
-## My Github stats 📈
-
-<a href="https://github-readme-stats.vercel.app/api?username=thecodedjourney&show_icons=true">
-  <img width="475" align="center" src="https://github-readme-stats.vercel.app/api?username=thecodedjourney&show_icons=true" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=thecodedjourney">
-  <img width="340"align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecodedjourney" />
-</a>
