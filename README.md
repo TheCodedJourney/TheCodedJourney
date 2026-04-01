@@ -1,4 +1,4 @@
-<h2> Hey folks, I'm Tom! 👋 </h2>
+<h2>I'm Tom! 👋 </h2>
  <!-- <img align='right' src="https://github-readme-stats.vercel.app/api?username=thecodedjourney&show_icons=true&theme=tokyonight" width="375"/>-->
 <img align='right' src="https://media.giphy.com/media/DUtVdGeIU8lmo/giphy.gif" width="300">​
 <strong>Currently</strong></br><p><em>Tech Lead @ <a href="https://counter.partners">Counter</a></br></br><strong>Previous Experience</strong></br>Senior Software Developer @ <a href="https://www.aiimi.com/">Aiimi</a></br>Software Developer @ <a href="https://www.sykescottages.co.uk/">Sykes</a></br>Associate Account Strategist @ <a href="https://www.google.co.uk/"> Google </a><img src="https://media.giphy.com/media/3oKGzFba1fQEuthrkQ/giphy.gif" width="30"> 
